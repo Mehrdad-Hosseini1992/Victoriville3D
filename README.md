@@ -8,3 +8,5 @@ This motivated us to develop Victoriaville3D datasets. This Datasets aim to fill
 This research project focuses on leveraging mobile LiDAR data to extract environmental factors essential for evaluating pedestrian network accessibility. Currently, there are no databases specifically designed for training algorithms to assess accessibility for persons with reduced mobility (PRM). Objects of interest in urban environments—such as Curb-cuts, Ramps, doors, and stairs—exhibit significant morphological variability and are often underrepresented in existing datasets. 
 
  
+![Screenshot 2024-08-09 174645](https://github.com/user-attachments/assets/02915bef-6e12-43b3-aa56-cee2fbb91cd7)
+![Screenshot 2024-08-09 173418](https://github.com/user-attachments/assets/526a5bf5-46a0-4345-8648-42ac1201b1a8)
